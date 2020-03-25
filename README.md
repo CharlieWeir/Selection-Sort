@@ -1,4 +1,4 @@
-# charlieweir74-gmail.com
+# Selection Sort
 Selection Sort Prog
 
 Two functions used in this program: 
